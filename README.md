@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sibojay
-- 👀 I’m interested in Web Development & Data Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 
 
